@@ -48,7 +48,7 @@ To deploy Hack Ventures' smart contracts to a local AIA blockchain node or a tes
 
 1. Start a local AIA blockchain node:
    ```bash
-   git clone https://github.com/yourusername/hackVentures-aia.git
+   git clone https://github.com/manovHacksaw/hackVentures-aia.git
    cd hackVentures-aia
    cd web3
 
